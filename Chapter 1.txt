@@ -11,4 +11,5 @@ git commit -m "commit message": commit a file under version control
 git diff "file name": to se the differences in Chapter 1
 git checkout "file name": back to the last version that was committed in our working directory
 git remote add origin https://github.com/neonguyen22/Story.git: add all the files in the current working directory to github
+git branch -M main
 git push -u origin main: push all the local repository to the remote repository
