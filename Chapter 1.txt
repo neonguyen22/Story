@@ -6,4 +6,9 @@ ls: lists the files
 ls -a: list all the files in the repository, including hidden files
 git status: check status of git repository to see what's currently inside the staging area
 git add "file name": add a new file to the staging area and to start tracking changes in it
+git add .: Specify everything inside the current working directory
 git commit -m "commit message": commit a file under version control
+git diff "file name": to se the differences in Chapter 1
+git checkout "file name": back to the last version that was committed in our working directory
+git remote add origin https://github.com/neonguyen22/Story.git: add all the files in the current working directory to github
+git push -u origin main: push all the local repository to the remote repository
