@@ -1,1 +1,9 @@
-Today is a beautiful day to work
+mkdir: create directory
+touch "file name": create file
+code "file name": create code or paragraph in a file
+git init: Create an empty Git repository or reinitialize an existing one; create a new git local repository and start tracking some of these file changes
+ls: lists the files
+ls -a: list all the files in the repository, including hidden files
+git status: check status of git repository to see what's currently inside the staging area
+git add "file name": add a new file to the staging area and to start tracking changes in it
+git commit -m "commit message": commit a file under version control
